@@ -1,0 +1,33 @@
+_repo: Der-alte-Trapper_50627
+contributor:
+  illustrator:
+    agent_name: Winkler, Rolf
+    gutenberg_agent_id: '46005'
+    url: http://www.gutenberg.org/2009/agents/46005
+  translator:
+    agent_name: Meister, Friedrich
+    gutenberg_agent_id: '46006'
+    url: http://www.gutenberg.org/2009/agents/46006
+creator:
+  author:
+    agent_name: Cooper, James Fenimore
+    aliases:
+    - Cooper, Fenimore
+    - Morgan, Jane
+    - Cooper, J. Fenimore (James Fenimore)
+    birthdate: 1789
+    deathdate: 1851
+    gutenberg_agent_id: '483'
+    url: http://www.gutenberg.org/2009/agents/483
+    wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
+description: ''
+gutenberg_issued: '2015-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50627'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Der alte Trapper
+url: http://www.gutenberg.org/ebooks/50627
